@@ -1,3 +1,5 @@
+package Projeto_java_basico_dio;
+
 public class Cliente {
 
     public int agencia;
