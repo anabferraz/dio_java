@@ -12,7 +12,7 @@ public class ProcessoSeletivo {
         System.out.println("Digite sua pretensão salarial: ");
         x.salarioPret = scan.nextDouble();
 
-        analisar_Candidato();
+        x.analisar_Candidato(x.salarioPret,x.nome);
     }
     
     
